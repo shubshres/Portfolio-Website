@@ -12,7 +12,7 @@ const Hero = () => (
         <br />
       </SectionTitle>
       <SectionText>
-        I am currently a software engineering student at The University of Texas at Arlington expected to graduate in December 2022.<br/>
+        Incoming Systems Integration Engineer Intern <br/>@ Lockheed Martin<br/>
       </SectionText>
       <Button onClick={() => window.location = "https://www.linkedin.com/in/shubhayu-shrestha/"}>Connect With Me</Button>
     </LeftSection>
