@@ -19,7 +19,7 @@ export const projects = [
     title: "Mavs in Japan",
     description:
       "Currently developing a Progressive Web Application in a team for a UT-Arlington study abroad class utilizing Drupal. This application was utilized by study abroad students to have a centralized location to find information about their trip by providing an itinerary, emergency contact information, key translations, and a map of Japan.",
-    image: "/images/mavsinjapan.png",
+    image: "",
     source: "https://github.com/shubshres/MavsInJapan/",
     link: "https://mavsinjapan.sxs4805.uta.cloud/",
     id: 2,

@@ -95,9 +95,6 @@ export const ExternalLinks = styled.a`
   background: ${({ alt }) => alt ? 'linear-gradient(270deg, #F46737 0%, #945DD6 100%)' : 'linear-gradient(270deg, #13ADC7 0%, #945DD6 100%)'};;
   border-radius: 15px;
   transition: 0s;
-  &:hover {
-    background: ;
-  }
 `;
 
 export const TagList = styled.ul`
