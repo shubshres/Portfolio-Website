@@ -32,6 +32,22 @@ export const projects = [
     source: "https://github.com/shubshres/Mav-Shell",
     id: 3,
   },
+  {
+    title: "Snake",
+    description:
+      "Created snake in Python utilizing Object Oriented Programming, Inheritance, and importing various packages such as the turtle library for the GUI.",
+    image: "",
+    source: "https://github.com/shubshres/Snake",
+    id: 4,
+  },
+  {
+    title: "FAT32 Filesystem Reader",
+    description:
+      "Implemented a user space shell application that is capable of interpreting a FAT32 file system image. The utility does not corrupt the file system image and should be robust.",
+    image: "",
+    source: "https://github.com/shubshres/FAT-32",
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [
