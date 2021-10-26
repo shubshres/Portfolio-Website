@@ -1,3 +1,3 @@
 ## Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+Created a portfolio website utilizing React.js, Next.js, and JavaScript. 
