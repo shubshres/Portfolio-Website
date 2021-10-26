@@ -4,9 +4,13 @@ import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
 const Technologies = () =>  (
-  <div>
-    Technologies
-  </div>
+  <Section id="tech">
+    <SectionDivider>
+      <SectionTitle>Programming Languages</SectionTitle>
+      <SectionText>I have had experience using programming langauges such as C++, C, Python, Java, R Studio, React.js, JavaScript, and Swift</SectionText>
+    </SectionDivider>
+
+  </Section>
 );
 
 export default Technologies;
