@@ -94,16 +94,10 @@ export const ExternalLinks = styled.a`
   padding: 1rem 1.5rem;
   background: ${({ alt }) => alt ? 'linear-gradient(270deg, #F46737 0%, #945DD6 100%)' : 'linear-gradient(270deg, #13ADC7 0%, #945DD6 100%)'};;
   border-radius: 15px;
-  transition: 0.5s ease;
+  transition: 0s;
   &:hover {
-    background: #17a7ea;
+    background: ;
   }
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-  position: relative;
-  overflow: hidden;
 `;
 
 export const TagList = styled.ul`
