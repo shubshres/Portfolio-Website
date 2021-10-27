@@ -21,7 +21,7 @@ const Header = () => (
             marginBottom: 20,
           }}
         >
-          <DiCssdeck size="3rem" /> <Span> shubshres</Span>
+          <Span>// shubshres</Span>
         </a>
       </Link>
     </Div1>
